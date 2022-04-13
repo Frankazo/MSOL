@@ -1,0 +1,16 @@
+//--------------------------------------------------------------
+// Only imports here
+//--------------------------------------------------------------
+
+//----------Settings
+@import 'settings/*';
+
+//----------Global Styles
+@import 'global/reset';
+@import 'global/*';
+
+//----------Utilities
+// @import 'utilities/*';
+
+//----------Components
+@import 'components/**/*.scss';
